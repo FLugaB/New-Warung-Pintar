@@ -2,7 +2,9 @@
 <link rel="stylesheet" type="text/css" href="css/slick.css"/>
 <link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>
 
+    <div class="">
 
+    </div>
     <!--slider-->
     <div class="head-slider">
         <div class="slides" style="background:url('images/slide.png');"></div>
